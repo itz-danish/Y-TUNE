@@ -177,3 +177,12 @@ For questions or feedback, open an issue on the [GitHub repository](https://gith
 ---
 
 Happy listening with Y Tune! 🎧🎵
+
+---
+
+
+## 👤 Creator  
+Made with ❤️ by **Mohammad Danish**  
+
+📌 **LinkedIn:** [Mohammad Danish](https://www.linkedin.com/in/mohammad-danish-76570a24a/)  
+📷 **Instagram:** [@\_Itz\_danish\_](https://www.instagram.com/_itz_danish_/)  
