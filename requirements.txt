@@ -1,0 +1,6 @@
+yt_dlp
+pygame
+ffprobe
+ffmpeg
+mutagen
+tenacity
