@@ -29,7 +29,7 @@
 1. **Clone the Repository** 📥
 
    ```bash
-   git clone https://github.com/<your-username>/y-tune.git
+   git clone https://github.com/itz-danish/Y-TUNE/
    cd y-tune
    ```
 
@@ -129,7 +129,7 @@ To create a standalone `.exe` (e.g., for Windows), use PyInstaller:
 2. 🛠️ Create the executable:
 
    ```bash
-   pyinstaller --onefile "Y Tune.py"
+   pyinstaller --onefile --noupx --clean "Y Tune.py"
    ```
 
 3. 📂 Copy the `ffmpeg/` folder:
@@ -172,7 +172,7 @@ Licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact 📬
 
-For questions or feedback, open an issue on the [GitHub repository](https://github.com/<your-username>/y-tune) or contact <your-contact-info>.
+For questions or feedback, open an issue on the [GitHub repository](https://github.com/itz-danish/Y-TUNE/) or contact <your-contact-info>.
 
 ---
 
